@@ -2,7 +2,7 @@
 
 ### Consignes 
 
-Article : [**Plug-and-Play Priors for Model Based Reconstruction**](https://engineering.purdue.edu/~bouman/Plug-and-Play/webdocs/GlobalSIP2013a.pdf)
+Article : [**Non-local Means Denoising**](https://www.ipol.im/pub/art/2011/bcm_nlm/article.pdf)
 
 Présenter sous la forme d'un notebook Python: 
 * Quel est le problème inverse considéré, quel type de dégradation.
