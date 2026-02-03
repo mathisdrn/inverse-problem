@@ -1,0 +1,23 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 12761b47-6d07-47ba-9170-05c00243f004
+  title: "Non Local Means Denoising for Inverse Problems"
+  # description:
+  keywords: ["inverse problem", "denoising", "non-local means"]
+  github: "https://github.com/mathisdrn/inverse-problem/"
+  date: 2025-02-03
+  license:
+    content: CC-BY-SA-4.0
+    code: MIT
+  authors: 
+    - name: Mathis Derenne
+      affiliation: M2 MIASHS - Université de Lyon
+      github: mathisdrn
+  requirements: 
+    - pyproject.toml
+  toc:
+    - file: "Non-Local Means Denoising.ipynb"
+
+site:
+  template: article-theme
